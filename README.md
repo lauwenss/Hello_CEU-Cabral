@@ -18,4 +18,4 @@ Task
 -- Step 6 -> Check user email
 -- Step 7 -> Generate SSH keygen
 -- Step 8 -> ssh-keygen -t ed25519 -C williamcabral61@gmail.com
--- Step 9 -> Creat Repository
+-- Step 9 -> Create Repository
